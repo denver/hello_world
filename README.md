@@ -1,22 +1,13 @@
-# hello_world
-Hello World
+#hello world
 
+Hi. My name is Denver. I'm not from Denver. I'm from Minnesota, though I guess that could confuse some folks. 
 
-Hi. My name is Denver. I'm not from Denver, I'm from Minnesota, though I guess that would sound a bit confusing ... to some. 
+I'm interested in data visualization, photography, writing, entrepreneaurship, and just being real.
+
+I live in the Tenderloin San Francisco, California. 
+
+I look forward to collaborating on projects with other like-minded developers. 
+
+cheers,
 
 @denver
-
-
-This is basically the problem with all fundamental programers. 
-
-No one wants to write the test first. 
-
-What good would that be? It would only set you up for great expectations. 
-
-#
-
-//
-
-This is my third set of commits
-
-i want to add this
