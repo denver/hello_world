@@ -1,0 +1,12 @@
+{
+  "name": "hello_world",
+  "description": "Denver's Python Hello World",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "colors": "0.6.x"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4"
+  }
+}
